@@ -6,7 +6,7 @@ Tôi là DoubleNH25, một nhà phát triển phần mềm đam mê tạo ra cá
 
 <p align="center">
   <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=cs,ts,html,css,react,bootstrap,vscode,github,git,mysql" />
+      <img src="https://skillicons.dev/icons?i=cs,ts,html,css,react,bootstrap,vscode,github,git,mysql&perline=6" />
   </a>a>
 </p>p>
 
