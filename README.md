@@ -51,29 +51,6 @@ Xin chào! Tôi là **DoubleNH25**, một nhà phát triển phần mềm đam m
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DoubleNH25&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoubleNH25&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DoubleNH25&theme=tokyonight" alt="DoubleNH25's streak"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DoubleNH25&theme=tokyonight&row=1&column=7" alt="DoubleNH25's trophies"/>
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DoubleNH25&theme=tokyo-night&hide_border=true" alt="DoubleNH25's contribution graph"/>
-</div>
-
 ## 🌱 Currently Learning
 
 - 🎯 Advanced React patterns and hooks
