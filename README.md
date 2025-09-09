@@ -8,13 +8,13 @@
 
 ## 🌟 About Me
 
-Xin chào! Tôi là **DoubleNH25**, một nhà phát triển phần mềm đam mê tạo ra các giải pháp sáng tạo và hiệu quả. Tôi luôn tìm kiếm những thử thách mới và cơ hội để học hỏi, phát triển bản thân.
+Hello! I’m **DoubleNH25**, a passionate software developer who loves creating innovative and efficient solutions. I’m always seeking new challenges and opportunities to learn and grow.
 
-- 🔭 Hiện tại tôi đang làm việc với **C#, .NET, React, Node.js**
-- 🎮 Có kinh nghiệm phát triển game Unity 2D và RPG 2D
-- 🌐 Phát triển full-stack web applications với MERN stack
-- 💡 Đam mê tạo ra những ứng dụng web hiện đại và game thú vị
-- ⚡ Fun fact: Từ web development đến game development - tôi yêu thích mọi thử thách lập trình!
+- 🔭 Currently working with **C#, .NET, React, Node.js**
+- 🎮 Experienced in developing game Unity 2D
+- 🌐 Skilled in building full-stack web applications with MERN stack
+- 💡 Passionate about crafting modern web applications and engaging games
+- ⚡ Fun fact: From web development to game development – I enjoy every coding challenge!
 
 ## 🚀 Tech Stack & Skills
 
@@ -50,12 +50,12 @@ Xin chào! Tôi là **DoubleNH25**, một nhà phát triển phần mềm đam m
 
 ## 🌱 Currently Learning
 
-- 🎯 Advanced React patterns và state management
-- 🔥 Microservices architecture với .NET Core
+- 🎯 Advanced React patterns and state management
+- 🔥 Microservices architecture with .NET Core
 - 🚀 Cloud technologies (Azure, AWS)
-- 📱 Mobile app development với React Native và Flutter
-- 🎮 Advanced Unity features và game optimization
-- 🤖 AI/ML integration trong web và game development
+- 📱 Mobile app development với React Native and Fullter
+- 🎮 Advanced Unity features and game optimization
+- 🤖 AI/ML integration trong web and game development
 
 ## 🤝 Let's Connect!
 
@@ -66,4 +66,3 @@ Xin chào! Tôi là **DoubleNH25**, một nhà phát triển phần mềm đam m
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/doublenh2509/)
 
 </div>
-
