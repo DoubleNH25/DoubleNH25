@@ -10,9 +10,10 @@
 
 Hello! I’m **DoubleNH25**, a passionate software developer who loves creating innovative and efficient solutions. I’m always seeking new challenges and opportunities to learn and grow.
 
-- 🔭 Currently working with **C#, .NET, React, Node.js**
+- 🔭 Currently coding with **C#, .NET, React, Node.js**
 - 🎮 Experienced in developing game Unity 2D
 - 🌐 Skilled in building full-stack web applications with MERN stack
+- ⚙️ Specialize in backend development with ASP.NET.
 - 💡 Passionate about crafting modern web applications and engaging games
 - ⚡ Fun fact: From web development to game development – I enjoy every coding challenge!
 
