@@ -54,9 +54,9 @@ Hello! I’m **DoubleNH25**, a passionate software developer who loves creating 
 - 🎯 Advanced React patterns and state management
 - 🔥 Microservices architecture with .NET Core
 - 🚀 Cloud technologies (Azure, AWS)
-- 📱 Mobile app development với React Native and Fullter
+- 📱 Mobile app development with React Native and Fullter
 - 🎮 Advanced Unity features and game optimization
-- 🤖 AI/ML integration trong web and game development
+- 🤖 AI/ML integration in web and game development
 
 ## 🤝 Let's Connect!
 
